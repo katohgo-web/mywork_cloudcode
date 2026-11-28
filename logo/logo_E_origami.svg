@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 120" width="450" height="120">
+  <rect width="450" height="120" fill="#ffffff"/>
+  <g transform="translate(10, 10)">
+    <polygon points="50,10 85,30 50,50 15,30" fill="#1B3B36"/>
+    <polygon points="15,35 50,55 50,90 15,70" fill="#2D5A52"/>
+    <polygon points="50,55 85,35 85,70 50,90" fill="#D4A373"/>
+    <text x="110" y="40" font-family="IPAGothic, sans-serif" font-size="14" fill="#666666" letter-spacing="2">株式会社</text>
+    <text x="110" y="85" font-family="IPAGothic, sans-serif" font-size="38" font-weight="bold" fill="#333333" letter-spacing="4">タスクサット</text>
+  </g>
+</svg>
