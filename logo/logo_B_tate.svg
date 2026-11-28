@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" width="400" height="420">
+  <rect width="400" height="420" fill="#ffffff"/>
+  <circle cx="200" cy="150" r="115" fill="#2E6B4F"/>
+  <path d="M120 160 L200 92 L280 160" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 150 V215 H260 V150" fill="none" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="185" y="170" width="30" height="45" fill="#E9C46A"/>
+  <text x="200" y="330" text-anchor="middle" font-family="IPAGothic, sans-serif" font-size="54" font-weight="bold" fill="#2E6B4F" letter-spacing="4">タスクサット</text>
+  <text x="200" y="372" text-anchor="middle" font-family="IPAGothic, sans-serif" font-size="20" fill="#555" letter-spacing="8">株式会社</text>
+</svg>

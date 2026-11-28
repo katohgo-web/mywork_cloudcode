@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" width="760" height="220">
+  <rect width="760" height="220" fill="#ffffff"/>
+  <g transform="translate(30,25)">
+    <path d="M10 85 L85 20 L160 85" fill="none" stroke="#1F3A5F" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="118" y="22" width="16" height="34" fill="#1F3A5F"/>
+    <path d="M30 80 V160 H140 V80" fill="none" stroke="#1F3A5F" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M55 118 L78 140 L122 96" fill="none" stroke="#F28C28" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="225" y="88" font-family="IPAGothic, sans-serif" font-size="26" fill="#1F3A5F" letter-spacing="6">株式会社</text>
+  <text x="222" y="160" font-family="IPAGothic, sans-serif" font-size="68" font-weight="bold" fill="#1F3A5F" letter-spacing="4">タスク<tspan fill="#F28C28">サット</tspan></text>
+  <rect x="225" y="178" width="500" height="4" fill="#F28C28"/>
+  <text x="225" y="205" font-family="IPAGothic, sans-serif" font-size="16" fill="#5A6B80" letter-spacing="3">住まいのリフォーム</text>
+</svg>

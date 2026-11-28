@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <rect width="300" height="300" rx="60" fill="#1F3A5F"/>
+  <path d="M55 140 L150 60 L245 140" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 160 L135 200 L215 120" fill="none" stroke="#F28C28" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="265" text-anchor="middle" font-family="IPAGothic, sans-serif" font-size="30" font-weight="bold" fill="#ffffff" letter-spacing="4">タスクサット</text>
+</svg>
